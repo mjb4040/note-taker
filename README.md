@@ -1,6 +1,7 @@
 # Note Taker - Note Taking Application Using Node.js and express.js
 
-https://stark-plains-05119.herokuapp.com/ 
+## https://stark-plains-05119.herokuapp.com/ 
+## https://github.com/mjb4040/note-taker
 
 # User Story
 AS A small business owner
